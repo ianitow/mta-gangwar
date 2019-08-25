@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    
+    <script src="shared/framework.lua" type="client" />
+    <script src="client/Interiors.luac" type="client" validate="false" composer="1" compile="1" debug="0" blockdecompile="1" encrypt="1" checksum="CF239A3F1DBCE6C37BBA94B375DEE14E">
+        <script src="client/src/Interiors.lua" type="client" />
+    </script>
+    <script src="server/main.lua" type="server" />
+    <map src="interiors.map" />
+</meta>

@@ -1,0 +1,104 @@
+<meta>
+    <info author="*Shadow and #RooTs" name="Radar GTA V do SERVZIKA" version="1.0.0" type="script"/>
+    <script src="sourceC.luac" type="client" protected="true"></script>
+
+
+
+    <script src="map/ControlState.lua" type="client" protected="true" ></script>
+    <script src="map/Map.luac" type="client" protected="true"></script>
+
+    <script src="img.lua" type="client"/>
+	<file src="barra.png" />
+	<file src="barra2.png" />
+	<file src="barra3.png" />
+	<file src="barra4.png" />
+	<file src="sz/blips/wanted.png" />
+	<file src="sz/blips/damage.png" />	
+	<file src="sz/blips/map.png" />
+	<file src="sz/map.png" />
+	<file src="sz/blips/radarbg.png" />
+	<file src="sz/blips/player.png" />
+	<file src="rect.png" />	
+	<file src="sz/blips/mask.png" />
+	<file src="sz/blips/rotation.png" />
+	
+	<file src="sz/blips/0.png" />
+	<file src="sz/blips/1.png" />
+	<file src="sz/blips/2.png" />
+	<file src="sz/blips/3.png" />
+	<file src="sz/blips/4.png" />
+	<file src="sz/blips/5.png" />
+	<file src="sz/blips/6.png" />
+	<file src="sz/blips/7.png" />
+	<file src="sz/blips/8.png" />
+	<file src="sz/blips/9.png" />
+	<file src="sz/blips/10.png" />
+	<file src="sz/blips/11.png" />
+	<file src="sz/blips/12.png" />
+	<file src="sz/blips/13.png" />
+	<file src="sz/blips/14.png" />
+	<file src="sz/blips/15.png" />
+	<file src="sz/blips/16.png" />
+	<file src="sz/blips/17.png" />
+	<file src="sz/blips/18.png" />
+	<file src="sz/blips/19.png" />
+	<file src="sz/blips/20.png" />
+	<file src="sz/blips/21.png" />
+	<file src="sz/blips/22.png" />
+	<file src="sz/blips/23.png" />
+	<file src="sz/blips/24.png" />
+	<file src="sz/blips/25.png" />
+	<file src="sz/blips/26.png" />
+	<file src="sz/blips/27.png" />
+	<file src="sz/blips/28.png" />
+	<file src="sz/blips/29.png" />
+	<file src="sz/blips/30.png" />
+	<file src="sz/blips/31.png" />
+	<file src="sz/blips/32.png" />
+	<file src="sz/blips/33.png" />
+	<file src="sz/blips/34.png" />
+	<file src="sz/blips/35.png" />
+	<file src="sz/blips/36.png" />
+	<file src="sz/blips/37.png" />
+	<file src="sz/blips/38.png" />
+	<file src="sz/blips/39.png" />
+	<file src="sz/blips/40.png" />
+	<file src="sz/blips/41.png" />
+	<file src="sz/blips/42.png" />
+	<file src="sz/blips/43.png" />
+	<file src="sz/blips/44.png" />
+	<file src="sz/blips/45.png" />
+	<file src="sz/blips/46.png" />
+	<file src="sz/blips/47.png" />
+	<file src="sz/blips/48.png" />
+	<file src="sz/blips/49.png" />
+	<file src="sz/blips/50.png" />
+	<file src="sz/blips/51.png" />
+	<file src="sz/blips/52.png" />
+	<file src="sz/blips/53.png" />
+	<file src="sz/blips/54.png" />
+	<file src="sz/blips/55.png" />
+	<file src="sz/blips/56.png" />
+	<file src="sz/blips/57.png" />
+	<file src="sz/blips/58.png" />
+	<file src="sz/blips/59.png" />
+	<file src="sz/blips/60.png" />
+	<file src="sz/blips/61.png" />
+	<file src="sz/blips/62.png" />
+	<file src="sz/blips/63.png" />
+	<file src="sz/blips/down.png" />
+	<file src="sz/blips/square.png" />
+	<file src="sz/blips/up.png" />
+
+	<file src="sz/blips/hunter.png" />
+	<file src="sz/blips/blip-rotor.png" />
+	<file src="sz/blips/boing.png" />
+	<file src="sz/blips/paraquedas.png" />
+	<file src="sz/blips/jato.png" />
+	<file src="sz/blips/aviao.png" />
+
+
+
+
+	
+</meta>

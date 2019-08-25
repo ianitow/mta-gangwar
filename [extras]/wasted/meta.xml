@@ -1,0 +1,11 @@
+<meta>
+	<min_mta_version client="1.5.5" server="1.5.5" />
+    
+	<info name ="Wasted" description="Wasted" author ="Sam@ke, bonnie and IgorRodriguesCo" version="1.0.2" type="script" />
+	
+	<file src="shaders/old_film.fx" type="client"/>
+	<file src="starja.png" />
+	<file type="client" src="images/vignette1.dds"/>
+	<script type="client" src="wasted.luac"/>
+	<file src="wasted.mp3"/>
+</meta>

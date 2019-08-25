@@ -1,0 +1,17 @@
+addEvent("changeSkinServer",true)
+addEventHandler( "changeSkinServer", root,function(idSkin)
+    source:setModel(idSkin)
+    source:setRotation(180,180,0)
+end)
+
+addEvent("protectPlayerServer",true)
+addEventHandler( "protectPlayerServer", root,function()
+    source:setDimension(666)
+    source:setRotation(180,180,0)
+end)
+
+addEvent("unprotectPlayerServer",true)
+addEventHandler( "unprotectPlayerServer", root,function(dimension,interior)
+    source:setInterior(interior)
+    source:setDimension(dimension)
+end)

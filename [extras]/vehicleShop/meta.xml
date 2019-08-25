@@ -1,0 +1,13 @@
+<meta>
+    
+    <oop>true</oop>
+    
+    <script src="shared/framework.lua" type="client" />
+    <script src="shared/core.luac" type="server" />
+    
+    <script src="client/VehicleHud.luac" type="client" validate="false" composer="1" compile="1" debug="0" blockdecompile="1" encrypt="1" checksum="BB146DBBB3E7F5021A699DCE41133E80">
+        <script src="client/src/VehicleHud.lua" type="client" />
+    </script>
+    <script src="server/Vehicle.lua" type="server" />
+    
+</meta>

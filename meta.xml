@@ -1,0 +1,63 @@
+<meta>
+	<info author="MainGames Developers" description="Gang War" version="1.0" type="gamemode" />
+	<oop>true</oop>
+	<include resource="hud"/>
+	<include resource="systemID" />
+	
+	
+	<include resource="ruas"/>
+	<include resource="scoreboard"/>
+	<include resource="wasted"/>
+	<include resource="realdriveby"/>
+	<include resource="modern_radar"/>
+	<include resource="hud_player"/>
+	<include resource="maximap" minversion="1.5.2"/>
+	<include resource="deaths_tags" minversion="1.3.4"/>
+	<include resource="[map-gang-war-bases]" />	
+	<include resource="nametag" minversion="1.5.2"/>
+	<include resource="ammunation" minversion="1.5.2"/>
+	<include resource="burguer" minversion="1.5.2"/>
+	<include resource="vehicleShop" minversion="1.5.2"/>
+	<include resource="glue" minversion="1.5.2"/>
+	<include resource="heligrab" minversion="1.5.2"/>
+	<include resource="deathpickups" minversion="1.5.2"/>
+	<include resource="pickuphandler" minversion="1.5.2"/>
+	<!--BASE <include resource="skins"/>-->
+		<script src="Shared/core.luac" type="shared" /> 
+		<script src="Class/Database.lua" type="server"/>
+        <script src="Shared/exports.lua" type="server"/>
+        <export function="getDatabase" type="server" />  
+
+	<!--Load Gamemode Class's-->
+		<!--DONT ALTER ORDER-->
+		<script src="Class/utils.lua" type="shared"/>
+			<script src="Class/Account.lua" type="server"/>
+			<script src="Class/Gang.lua" type="server"/>
+			<script src="Class/Vehicle.lua" type="server" />   	 	
+			<script src="Class/Pickup.lua" type="server" />
+			<script src="Class/Spawn.lua" type="server"/>
+			<script src="Class/SpawnData.lua" type="server"/>
+			<script src="Class/Base.lua" type="server" />	
+    		<script src="Class/Chat.lua" type="server"/>
+			<script src="Class/Area.lua" type="server"/>
+			<script src="Class/Properties.lua" type="server" />
+			
+		
+	<!-- FIRST INNITS --> 
+		<script src="Inits/login/Account_c.lua" type="client"/> 
+		<script src="Inits/login/Account_s.lua" type="server"/>
+		<script src="Inits/gameplay/Vehicles_s.lua" type="server"/>
+		<script src="Inits/gameplay/Vehicles_c.lua" type="client"/>
+		<script src="Inits/turf/DominationTerritory_c.lua" type="client" />
+		<script src="Inits/login/SpawnSelector_s.lua" type="server"/> 
+			<script src="Inits/login/SpawnSelector_c.lua" type="client"/> 
+		<script src="Inits/gameplay/Pickup_c.lua" type="client"/> 
+		<script src="Inits/turf/shared/data.lua" type="server"/>
+		<script src="Inits/main.lua" type="server"/>
+		<script src="Inits/main_c.lua" type="client"/>
+		<script src="Inits/gameplay/MessagesRandom.lua"/>
+		<script src="Inits/gameplay/MessagesRandom_c.lua" type="client"/>
+	<!-- BANK SYSTEM-->
+	<script src="Inits/bank/BankSystem_s.lua" type="server"/>	
+	<script src="Inits/bank/BankSystem_c.lua" type="client"/>
+</meta>

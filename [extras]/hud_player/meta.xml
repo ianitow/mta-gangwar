@@ -1,0 +1,50 @@
+<meta>
+    <info author="Morrice!(!Mr.JoTa)" name="Hud - Vivendo Na loucura" version="2.0" type="script"/>
+
+	<script src="client_hud.lua" type="client" />
+
+	<file src="img/star.png" />
+	<file src="img/0.png" />
+	<file src="img/1.png" />  
+	<file src="img/2.png" />  
+	<file src="img/3.png" />
+	<file src="img/4.png" />
+	<file src="img/5.png" />
+	<file src="img/6.png" />
+	<file src="img/7.png" />
+	<file src="img/8.png" />
+	<file src="img/9.png" />
+	<file src="img/10.png" />
+	<file src="img/11.png" />
+	<file src="img/12.png" />
+	<file src="img/14.png" />
+	<file src="img/15.png" />
+	<file src="img/16.png" />
+	<file src="img/17.png" />
+	<file src="img/18.png" />
+	<file src="img/22.png" />
+	<file src="img/23.png" />
+	<file src="img/24.png" />
+	<file src="img/25.png" />
+	<file src="img/26.png" />
+	<file src="img/27.png" />
+	<file src="img/28.png" />
+	<file src="img/29.png" />
+	<file src="img/30.png" />
+	<file src="img/31.png" />
+	<file src="img/32.png" />
+	<file src="img/33.png" />
+	<file src="img/34.png" />
+	<file src="img/35.png" />
+	<file src="img/36.png" />
+	<file src="img/37.png" />
+	<file src="img/38.png" />
+	<file src="img/39.png" />
+	<file src="img/40.png" />
+	<file src="img/41.png" />
+	<file src="img/42.png" />
+	<file src="img/43.png" />
+	<file src="img/44.png" />
+	<file src="img/45.png" />
+	<file src="img/46.png" />
+</meta>

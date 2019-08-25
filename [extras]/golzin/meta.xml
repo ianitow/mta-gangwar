@@ -1,0 +1,7 @@
+<meta>
+	<info type="misc" name="ROCKSTAR-MODS" author="+Crazy" description=".." version="1.0" />
+
+        <file src="496.txd" />
+	<file src="496.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

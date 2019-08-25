@@ -1,0 +1,9 @@
+<meta>
+    <info author="iNeewbie" type="script" name="Comandos" />
+    <min_mta_version client="1.5.5" server="1.5.5" />    
+      <script src="comandos.lua" type="server"/>
+      <script src="comandosc.lua" type="client"/>
+      <file src="bip.wav"/>
+      <file src="match.wav"/>
+      <oop>true</oop>
+</meta>

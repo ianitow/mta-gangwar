@@ -1,0 +1,82 @@
+<meta>
+	<info author="Banex" type="script" version="3.0.1" />
+
+	<script src="client/class/map.lua" type="client" />
+	<script src="client/main.luac" type="client" />
+	
+	<file src="gfx/gtasa.jpg"/>
+	<file src="gfx/rect.png"/>
+	<file src="gfx/radarbg.png"/>
+	<file src="gfx/H.png"/>
+	<file src="gfx/HR.png"/>
+	<file src="gfx/mapred.png"/>
+	<file src="gfx/icons/0.png" />
+    <file src="gfx/icons/1.png" />
+    <file src="gfx/icons/2.png" />
+    <file src="gfx/icons/3.png" />
+    <file src="gfx/icons/4.png" />
+    <file src="gfx/icons/5.png" />
+    <file src="gfx/icons/6.png" />
+    <file src="gfx/icons/7.png" />
+    <file src="gfx/icons/8.png" />
+    <file src="gfx/icons/9.png" />
+    <file src="gfx/icons/10.png" />
+    <file src="gfx/icons/11.png" />
+    <file src="gfx/icons/12.png" />
+    <file src="gfx/icons/13.png" />
+    <file src="gfx/icons/14.png" />
+    <file src="gfx/icons/15.png" />
+    <file src="gfx/icons/16.png" />
+    <file src="gfx/icons/17.png" />
+    <file src="gfx/icons/18.png" />
+    <file src="gfx/icons/19.png" />
+    <file src="gfx/icons/20.png" />
+    <file src="gfx/icons/21.png" />
+    <file src="gfx/icons/22.png" />
+    <file src="gfx/icons/23.png" />
+    <file src="gfx/icons/24.png" />
+    <file src="gfx/icons/25.png" />
+    <file src="gfx/icons/26.png" />
+    <file src="gfx/icons/27.png" />
+    <file src="gfx/icons/28.png" />
+    <file src="gfx/icons/29.png" />
+    <file src="gfx/icons/30.png" />
+    <file src="gfx/icons/31.png" />
+    <file src="gfx/icons/32.png" />
+    <file src="gfx/icons/33.png" />
+    <file src="gfx/icons/34.png" />
+    <file src="gfx/icons/35.png" />
+    <file src="gfx/icons/36.png" />
+    <file src="gfx/icons/37.png" />
+    <file src="gfx/icons/38.png" />
+    <file src="gfx/icons/39.png" />
+    <file src="gfx/icons/40.png" />
+    <file src="gfx/icons/41.png" />
+    <file src="gfx/icons/42.png" />
+    <file src="gfx/icons/43.png" />
+    <file src="gfx/icons/44.png" />
+    <file src="gfx/icons/45.png" />
+    <file src="gfx/icons/46.png" />
+    <file src="gfx/icons/47.png" />
+    <file src="gfx/icons/48.png" />
+    <file src="gfx/icons/49.png" />
+    <file src="gfx/icons/50.png" />
+    <file src="gfx/icons/51.png" />
+    <file src="gfx/icons/52.png" />
+    <file src="gfx/icons/53.png" />
+    <file src="gfx/icons/54.png" />
+    <file src="gfx/icons/55.png" />
+    <file src="gfx/icons/56.png" />
+    <file src="gfx/icons/57.png" />
+    <file src="gfx/icons/58.png" />
+    <file src="gfx/icons/59.png" />
+    <file src="gfx/icons/60.png" />
+    <file src="gfx/icons/61.png" />
+    <file src="gfx/icons/62.png" />
+    <file src="gfx/icons/63.png" />	
+    <file src="gfx/icons/down.png" />
+    <file src="gfx/icons/square.png" />
+    <file src="gfx/icons/up.png" />
+	
+    <min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

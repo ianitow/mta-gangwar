@@ -1,0 +1,168 @@
+<meta>
+	<info author="~#Gabriel" />
+
+	
+	<script type="client" src="skinecar.lua" />
+	<file src="Skin+Car/polmav.txd" />
+	<file src="Skin+Car/polmav.dff" />
+	<file src="Skin+Car/vehicle-police-ranger.txd" />
+	<file src="Skin+Car/vehicle-police-ranger.dff" />
+	
+	<file src="Skin+Car/vehicle-police-normal.txd" />
+	<file src="Skin+Car/vehicle-police-normal.dff" />
+
+	<file src="Skin+Car/skin-police.txd" />
+	<file src="Skin+Car/skin-police.dff" />
+
+	<file src="Skin+Car/skin-police1.txd" />
+	<file src="Skin+Car/skin-police1.dff" />	
+
+	<file src="Skin+Car/bolsonaro.txd" />
+	<file src="Skin+Car/bolsonaro.dff" />	
+
+
+	<file src="Skin+Car/skin-dilma.dff" />
+	<file src="Skin+Car/skin-dilma.txd" />	
+
+	 <file src="Skin+Car/skin-lula.dff" />
+	<file src="Skin+Car/skin-lula.txd" />	
+
+	<file src="Skin+Car/skin-swag.dff" />
+	<file src="Skin+Car/skin-swag.txd" />
+
+	<file src="Skin+Car/skin-swag2.dff" />
+	<file src="Skin+Car/skin-swag2.txd" />
+	
+	<file src="Skin+Car/skin-fem.dff" />
+	<file src="Skin+Car/skin-fem.txd" />
+	
+	<file src="Skin+Car/skin-police-bope.dff" />
+	<file src="Skin+Car/skin-police-bope.txd" />
+		<file src="Skin+Car/army.dff" />
+	<file src="Skin+Car/army.txd" />
+
+	<file src="Skin+Car/skin-police-rj.dff" />
+	<file src="Skin+Car/skin-police-rj.txd" />
+
+	<file src="Skin+Car/skin-police-fem.dff" />
+	<file src="Skin+Car/skin-police-fem.txd" />
+	<file src="Skin+Car/skin-police-op.dff" />
+	<file src="Skin+Car/skin-police-op.txd" />
+
+	<file src="Skin+Car/skin-police-trip.dff" />
+	<file src="Skin+Car/skin-police-trip.txd" />
+
+	<file src="Skin+Car/fbi.dff" />
+	<file src="Skin+Car/fbi.txd" />
+	<file src="Skin+Car/vehicle-police-rj.dff" />
+	<file src="Skin+Car/vehicle-police-rj.txd" />
+	<file src="Skin+Car/vehicle-police-sf.dff" />
+	<file src="Skin+Car/vehicle-police-sf.txd" />
+	<file src="Skin+Car/hitler.dff" />
+	<file src="Skin+Car/hitler.txd" />
+	<file src="Skin+Car/521.dff" />
+	<file src="Skin+Car/521.txd" />
+	<file src="Skin+Car/461.dff" />
+	<file src="Skin+Car/461.txd" />
+	<file src="Skin+Car/522.dff" />
+	<file src="Skin+Car/522.txd" />
+	<file src="Skin+Car/sultan.dff" />
+	<file src="Skin+Car/sultan.txd" />
+	<file src="Skin+Car/293.dff" />
+	<file src="Skin+Car/293.txd" />
+
+	<file src="Skin+Car/310.dff" />
+	<file src="Skin+Car/310.txd" />
+
+	<file src="Skin+Car/7.dff" />
+	<file src="Skin+Car/7.txd" />
+	
+	<file src="Skin+Car/24.dff" />
+	<file src="Skin+Car/24.txd" />
+	
+	<file src="Skin+Car/35.dff" />
+	<file src="Skin+Car/35.txd" />
+	
+	<file src="Skin+Car/61.dff" />
+	<file src="Skin+Car/61.txd" />
+	
+	<file src="Skin+Car/94.dff" />
+	<file src="Skin+Car/94.txd" />
+	
+	<file src="Skin+Car/213.dff" />
+	<file src="Skin+Car/213.txd" />
+	
+	<file src="Skin+Car/253.dff" />
+	<file src="Skin+Car/253.txd" />
+
+	<file src="Skin+Car/137.dff" />
+	<file src="Skin+Car/137.txd" />
+	
+	<file src="Skin+Car/312.dff" />
+	<file src="Skin+Car/312.txd" />
+	<file src="Skin+Car/skin-fem-rand.dff" />
+	<file src="Skin+Car/skin-fem-rand.txd" />
+	
+	<file src="Skin+Car/skin-anime.dff" />
+	<file src="Skin+Car/skin-anime.txd" />
+	<file src="Skin+Car/skin-vip-ran.dff" />
+	<file src="Skin+Car/skin-vip-ran.txd" />
+	<file src="Skin+Car/eric.dff" />
+	<file src="Skin+Car/eric.txd" />
+	<file src="Skin+Car/dylan.dff" />
+	<file src="Skin+Car/dylan.txd" />
+	<file src="Skin+Car/sanchez.dff" />
+	<file src="Skin+Car/sanchez.txd" />
+
+	<file src="Skin+Car/copbike.dff" />
+	<file src="Skin+Car/copbike.txd" />
+	
+	<file src="Skin+Car/gokux.dff" />	
+	<file src="Skin+Car/gokux.txd" />
+
+
+	<file src="Skin+Car/luffy.dff" />	
+	<file src="Skin+Car/luffy.txd" />
+
+	
+	<file src="Skin+Car/L.dff" />	
+	<file src="Skin+Car/L.txd" />
+	
+	<file src="Skin+Car/narsn2.dff" />	
+	<file src="Skin+Car/narsn2.txd" />
+	
+	<file src="Skin+Car/fam1.dff" />	
+	<file src="Skin+Car/fam1.txd" />
+
+	
+	
+	<file src="Skin+Car/sasuke.dff" />	
+	<file src="Skin+Car/sasuke.txd" />
+
+	
+	<file src="Skin+Car/matrix.dff" />	
+	<file src="Skin+Car/matrix.txd" />
+
+	
+	<file src="Skin+Car/xxx.dff" />	
+	<file src="Skin+Car/xxx.txd" />
+
+	
+	<file src="Skin+Car/Hashirama.dff" />	
+	<file src="Skin+Car/Hashirama.txd" />
+	
+	<file src="Skin+Car/Tobirama.dff" />	
+	<file src="Skin+Car/Tobirama.txd" />
+
+	
+	<file src="Skin+Car/Hiruzen.dff" />	
+	<file src="Skin+Car/Hiruzen.txd" />
+
+	
+	<file src="Skin+Car/yondaime.dff" />	
+	<file src="Skin+Car/yondaime.txd" />
+
+	
+	<file src="Skin+Car/tsunade.dff" />	
+	<file src="Skin+Car/tsunade.txd" />
+</meta>

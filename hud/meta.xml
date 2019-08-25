@@ -1,0 +1,81 @@
+<meta>
+    <oop>true</oop>
+    <min_mta_version server="1.5.0-9.07439" />
+        <include resource="notices"/>
+        <!--BASE-->
+		<script src="shared/core.luac" type="server" />
+    	<script src="shared/framework.lua" type="client" />
+		
+
+        <!--LOGIN SYSTEM
+        <script src="client/login/Apresentation.lua" type="client"/>
+        <script src="client/login/LoginZ.lua" type="client"/>
+        <script src="client/login/RegisterZ.lua" type="client"/> 
+        
+        <script src="client/login/SpawnSelector.lua" type="client"/>  
+        <file src="gfx/login/blur.fx"/>
+        <file src="gfx/login/apresents.png"/>
+        <file src="gfx/login/logo-apresentation.png"/>
+        <file src="gfx/login/logo.png"/>  -->
+
+        <!--Turf System-->
+            <script src="client/turf/DominationTerritory.lua" type="client"/>
+            <script src="client/turf/AttackTerritory.lua" type="client"/>
+            <file src="gfx/turf/COOPBL.TTF"/>
+            <file src="sfx/turf/ataque.ogg"/>
+            <file src="sfx/turf/defende.flac"/>
+            <file src="sfx/turf/domina.flac"/>-->
+        <!--Windows Phone System
+
+            <script src="client/phone/Phone.lua" type="client"/>    
+            <script src="client/phone/App.lua" type="client"/>   
+            <script src="client/phone/HomeApp.lua" type="client"/>             
+            <script src="client/phone/ConfigApp.lua" type="client"/>    
+                  
+            <script src="client/phone/InfoApp.lua" type="client"/>        
+            <file src="gfx/phone/windows-phone.png" />
+            <file src="gfx/phone/call.png" />
+            <file src="gfx/phone/battery.png" />
+            <file src="gfx/phone/mission.png" />              
+            <file src="gfx/phone/settings.png" />
+            <file src="gfx/phone/world.png" />
+            <file src="gfx/phone/wifi.png" />
+            <file src="gfx/phone/signal-use.png" />  
+            <file src="gfx/phone/windows.TTF" />
+            <file src="gfx/phone/stats.png" />  
+            <file src="gfx/phone/bank.png" />  
+            <file src="gfx/phone/map.png" />  
+            <file src="gfx/phone/war.png" />  
+            <file src="gfx/phone/backgrounds/bg1.png" />           
+            <file src="gfx/phone/backgrounds/pdu.png" />   
+            <file src="gfx/phone/backgrounds/bg02.png" />                   
+            <file src="gfx/phone/backgrounds/bg03.jpg" />
+            <file src="gfx/phone/backgrounds/bg04.jpg" />   
+            <file src="gfx/phone/system-icon.png" />           
+            <file src="gfx/phone/conta-icon.png" />
+            <file src="gfx/phone/persona-icon.png" />           
+            <file src="gfx/phone/vip-icon.png" />
+            <file src="gfx/phone/war.png" />  
+             <file src="gfx/phone/avatar/iNeewbie.png" />  -->
+        <!--Logo System-->
+            <script src="client/logo/Logo.lua" type="client"/>
+            <file src="gfx/logo/logo-main.png" />
+        <!--Bank System-->
+            <script src="client/bank/BankSystem.lua" type="client"/>
+            <file src="gfx/bank/header.png" />
+            <!--Gameplay System-->
+            <script src="client/gameplay/Properties_c.lua" type="client"/>
+        <!--OTHERS-->
+            <script src="client/exports.lua" type="client" />
+            <script src="client/utils.lua" type="client"/>	
+	
+
+        <export function="callHud" type="client"/>
+        <export function="getForbiddenTimeLeft" type="client" />
+        <export function="getAllBases" type="server" />
+        <export function="sellBase" type="server" />
+        <export function="getGangBase" type="server" />
+        <export function="onGangNameChange" type="server" />
+        <export function="saveBases" type="server" />
+		
+</meta>

@@ -1,0 +1,67 @@
+﻿<meta>
+    <!-- копирайтик -->
+<min_mta_version client="1.5.5" server="1.5.5" />
+    
+    <info author="MX_Master" type="script" version="0.3" />
+
+
+
+    <!-- собсна, скрипты -->
+    <script src="server_main.lua" type="server" />
+    <script src="client_main.luac" type="client" />
+
+
+
+    <!-- эКонки пух -->
+    <file src="icons/weapons/9mm.png" />
+    <file src="icons/weapons/ak47.png" />
+    <file src="icons/weapons/baseballBat.png" />
+    <file src="icons/weapons/brassKnuckles.png" />
+    <file src="icons/weapons/cane.png" />
+    <file src="icons/weapons/chainsaw.png" />
+    <file src="icons/weapons/combatShotgun.png" />
+    <file src="icons/weapons/countryRifle.png" />
+    <file src="icons/weapons/desertEagle.png" />
+    <file src="icons/weapons/detonator.png" />
+    <file src="icons/weapons/dildo.png" />
+    <file src="icons/weapons/fireExtinguisher.png" />
+    <file src="icons/weapons/fist.png" />
+    <file src="icons/weapons/flamethrower.png" />
+    <file src="icons/weapons/flowers.png" />
+    <file src="icons/weapons/goggles.png" />
+    <file src="icons/weapons/golfClub.png" />
+    <file src="icons/weapons/grenade.png" />
+    <file src="icons/weapons/hsRocketLauncher.png" />
+    <file src="icons/weapons/katana.png" />
+    <file src="icons/weapons/knife.png" />
+    <file src="icons/weapons/m4.png" />
+    <file src="icons/weapons/microSmg.png" />
+    <file src="icons/weapons/minigun.png" />
+    <file src="icons/weapons/molotovCocktail.png" />
+    <file src="icons/weapons/mp5.png" />
+    <file src="icons/weapons/nightstick.png" />
+    <file src="icons/weapons/parachute.png" />
+    <file src="icons/weapons/poolCue.png" />
+    <file src="icons/weapons/rocketLauncher.png" />
+    <file src="icons/weapons/satchelCharge.png" />
+    <file src="icons/weapons/sawnoffShotgun.png" />
+    <file src="icons/weapons/shotgun.png" />
+    <file src="icons/weapons/shovel.png" />
+    <file src="icons/weapons/silenced9mm.png" />
+    <file src="icons/weapons/sniperRifle.png" />
+    <file src="icons/weapons/spraycan.png" />
+    <file src="icons/weapons/tearGas.png" />
+    <file src="icons/weapons/tec9.png" />
+
+    <!-- эКонки причин отброса ласт -->
+    <file src="icons/deathReasons/death.png" />
+    <file src="icons/deathReasons/explosion.png" />
+    <file src="icons/deathReasons/fall.png" />
+    <file src="icons/deathReasons/fire.png" />
+    <file src="icons/deathReasons/helicopterBlades.png" />
+    <file src="icons/deathReasons/rammed.png" />
+
+    <!-- эКонки статуса со единения -->
+    <file src="icons/connectStates/connected.png" />
+    <file src="icons/connectStates/disconnected.png" />
+</meta>

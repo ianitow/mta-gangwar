@@ -1,0 +1,20 @@
+<meta>
+    <info name="Painel Animações Estilo Sas-NetWork" author="MrDante" type="script" version="1.0" description="Painel Bope" ></info>
+    <file src="Arquivos/Imagens/cancel.png" />
+	<file src="Arquivos/Imagens/chat.png" />
+	<file src="Arquivos/Imagens/logo-canto.png" />
+	<file src="Arquivos/Imagens/fuck.png" />
+	<file src="Arquivos/Imagens/handsup.png" />
+	<file src="Arquivos/Imagens/sexy.png" />
+	<file src="Arquivos/Imagens/smoke.png" />
+	<file src="Arquivos/Imagens/sentar.png" />
+	<file src="Arquivos/Imagens/smile.png" />
+	<file src="Arquivos/Imagens/dance.png" />
+	<file src="Arquivos/Imagens/espere.png" />
+	<file src="Arquivos/Imagens/mouse.png" />
+	<file src="Arquivos/Sons/smoke.mp3" />
+	<file src="Arquivos/Sons/click.mp3" />
+	<script src="Server-side.lua" type="server" />
+	<script src="Client-side.lua" type="client" validate="true" cache="false" protected="true" />
+	<min_mta_version client="1.5.2" server="1.5.2" />
+</meta>

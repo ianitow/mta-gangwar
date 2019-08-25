@@ -1,0 +1,8 @@
+<meta>
+		<oop>true</oop>
+	<script src="shared/framework.lua" type="client" />
+	<script src="client/Burguer.lua" type="client"/> 
+	<script src="server/main.lua" type="server" />
+
+	
+</meta>

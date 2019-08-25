@@ -1,0 +1,6 @@
+<meta>
+
+	<script src="main.lua" type="server" />
+
+	<export function="getPlayerFromID" type="server" />
+</meta>

@@ -1,0 +1,27 @@
+<meta>
+    <script src="client.lua" type="client"/>
+	<file src='gfx/car.png' />
+    <file src='gfx/lanterna.png' />
+    <file src='gfx/motor.png' />
+    <file src='gfx/seta.png' />
+    <file src='gfx/bola.png' />
+    <file src='gfx/arrow.png' />
+    <file src='models/BlueNeonTube1.dff' />
+    <file src='models/GreenNeonTube1.dff' />
+    <file src='models/RedNeonTube1.dff' />
+    <file src='models/PinkNeonTube1.dff' />
+    <file src='models/YellowNeonTube1.dff' />
+    <file src='models/WhiteNeonTube1.dff' />
+    <file src='models/BlueNeonTube1.col' />
+    <file src='models/GreenNeonTube1.col' />
+    <file src='models/RedNeonTube1.col' />
+    <file src='models/PinkNeonTube1.col' />
+    <file src='models/YellowNeonTube1.col' />
+    <file src='models/WhiteNeonTube1.col' />
+    <file src='models/MatTextures.txd' />
+	<file src='Som/murchado.mp3' />
+    <script src="server.lua" type="server"/>
+	
+
+     
+</meta>

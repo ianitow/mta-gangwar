@@ -1,0 +1,10 @@
+<meta>
+    
+    <script src="client/src/main.lua" type="client" />
+   
+    
+    <file src="gfx/level.png" />
+    <file src="gfx/level_mic.png" />
+    <file src="gfx/level_typing.png" />
+    
+</meta>
