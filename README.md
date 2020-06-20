@@ -31,7 +31,7 @@ Example:
 	static.typeConnection = "mysql"
 ```
 
-Check if the database exists in your database.
+Check if the database exists in your database and its online.
 
 After, in folder "[gameplay]" delete "deathpickups" and "realdriveby".
 
