@@ -47,7 +47,7 @@ local super = Class("Account",LuaObject,function ()
 		]]
 		):execute()
 end).getSuperclass()
-comment
+
 --[[
 	function Account:init()
 	return:void

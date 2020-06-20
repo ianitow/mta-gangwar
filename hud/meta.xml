@@ -7,7 +7,7 @@
     	<script src="shared/framework.lua" type="client" />
 		
 
-        <!--LOGIN SYSTEM
+        <!--LOGIN SYSTEM-->
         <script src="client/login/Apresentation.lua" type="client"/>
         <script src="client/login/LoginZ.lua" type="client"/>
         <script src="client/login/RegisterZ.lua" type="client"/> 
@@ -16,7 +16,7 @@
         <file src="gfx/login/blur.fx"/>
         <file src="gfx/login/apresents.png"/>
         <file src="gfx/login/logo-apresentation.png"/>
-        <file src="gfx/login/logo.png"/>  -->
+        <file src="gfx/login/logo.png"/>  
 
         <!--Turf System-->
             <script src="client/turf/DominationTerritory.lua" type="client"/>
