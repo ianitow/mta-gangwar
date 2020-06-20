@@ -4,7 +4,7 @@ This gamemode was made based on GTA gang systems.
 
 ## Getting Started
 
-Make a repository clone in your MTA "resources" folder.
+Make a repository clone in your MTA "resources/gamemodes" folder.
 
 ### Prerequisites
 
@@ -33,7 +33,9 @@ Example:
 
 Check if the database exists in your database.
 
-After, start the resource.
+After, in folder "[gameplay]" delete "deathpickups" and "realdriveby".
+
+And now, start the resource.
 
 ## Authors
 
